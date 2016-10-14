@@ -4,14 +4,14 @@
   "language": "bur_MM", 
   "title": "\u1015\u102d\u102f\u1000\u1039\u1006\u1036\u1005\u102f\u101b\u1014\u1039\u1021\u1010\u103c\u1000\u1039 \u101c\u103c\u101a\u1039\u1000\u1030\u1031\u101e\u102c \u1014\u100a\u1039\u1038\u1014\u102c\u1014\u102d\u101e\u101a\u1019\u103a\u102c\u1038 -", 
   "primary_category": "191ccd87f8a44c49ad11a4125bc78b39", 
-  "created_at": "2016-10-10T13:06:10.854573+00:00", 
+  "created_at": "2016-10-10T13:06:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-10-10T13:06:10.854788+00:00", 
+  "modified_at": "2016-10-14T12:24:58.448468+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 27, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "easy-tricks-save-my", 
   "uuid": "4b3cffb08f8e43fbb010c6ad89452e0e"
