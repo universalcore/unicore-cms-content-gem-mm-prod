@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "*There are almost 3.7 million orphans in South Africa - close to half of them have lost their parents to AIDS-related disease. This is one girl\u2019s story.*\r\n", 
+  "description": "*\u1031\u1010\u102c\u1004\u1039\u1021\u102c\u1016\u101b\u102d\u1000\u1019\u103d\u102c \u1000\u1031\u101c\u1038\u1031\u1015\u102b\u1004\u1039\u1038 \u1043.\u1047\u101e\u1014\u1039\u1038\u1031\u101c\u102c\u1000\u1039\u1000 \u1019\u102d\u1018\u1019\u1032\u1037\u1000\u1031\u101c\u1038\u1031\u1010\u103c \u103b\u1016\u1005\u1039\u103b\u1015\u102e\u1038\u1031\u1010\u102c\u1037 \u101e\u1030\u1010\u102d\u102f\u1095\u101b\u1032\u1095\u1010\u1005\u1039\u1040\u1000\u1039\u1031\u101c\u102c\u1000\u1039\u1000 AIDS \u1006\u1000\u1039\u1005\u1015\u1039\u1031\u101b\u102c\u1002\u102b\u1031\u1010\u103c\u1031\u107e\u1000\u102c\u1004\u1039\u1037 \u101e\u1030\u1010\u102f\u102d\u1095\u1019\u102d\u1018\u1031\u1010\u103c\u1000\u102d\u102f \u1006\u1036\u102f\u1038\u101b\u1036\u1088\u1038\u1011\u102c\u1038\u1015\u102b\u1010\u101a\u1039\u104b \u1012\u102b\u1000 \u1019\u102d\u1014\u1039\u1038\u1000\u1031\u101c\u1038\u1010\u1005\u1039\u1031\u101a\u102c\u1000\u1039\u101b\u1032\u1095 \u1007\u102c\u1010\u1039\u101c\u1019\u1039\u1038\u1010\u1005\u1039\u1015\u102f\u1012\u1039\u1015\u102b\u104b**", 
   "language": "bur_MM", 
   "title": "\u1000\u107d\u103c\u1014\u1039\u1019\u1019\u103d\u102c \u1019\u102d\u1018\u1019\u101b\u103d\u102d\u1018\u1030\u1038  \u1012\u102b\u1031\u1015\u1019\u1032\u1037 \u1000\u107d\u103c\u1014\u1039\u1019\u1019\u103d\u102c \u1021\u1001\u103c\u1004\u1039\u1037\u1021\u1031\u101b\u1038\u101b\u103d\u102d\u1010\u101a\u1039 ", 
   "primary_category": "d2bd7587b17e4abcb3c3135bbba7eb63", 
   "created_at": "2016-02-22T07:51:54+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-08-28T18:19:08.074725+00:00", 
+  "modified_at": "2016-10-17T13:43:25.767169+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 52, 
+  "position": 105, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "priety", 
   "uuid": "e1301199e0c949f3bdc13bdbfb3b7758"
